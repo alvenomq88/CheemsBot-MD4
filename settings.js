@@ -64,9 +64,9 @@ global.location = "KUWAIT, KUWAIT, KUWAIT" //ur location
 global.owner = ['67666546']
 global.ownertag = '67666546' //ur tag number
 global.botname = '𝑩𝑶𝑻 ALVENOM🐼🍷 ٫' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
+global.linkz = "https://www.youtube.com/channel/UCtMJaxn6e03ivNFPgPt_OYQ" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/channel/UCtMJaxn6e03ivNFPgPt_OYQ" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/Bi2yNkYcwaAFP6c1Bu2TqD' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
 global.packname = "⍣ ALVENOM ⍣" //ur sticker watermark packname
@@ -106,7 +106,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'DONE BRO ✓',
-    admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
+    admin: 'هذه الميزه للمشرفين فقط!! ',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
     group: 'لميزة تستخدم فقط للمجموعات!',
