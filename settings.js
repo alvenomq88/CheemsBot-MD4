@@ -67,10 +67,10 @@ global.botname = '𝑩𝑶𝑻 ALVENOM🐼🍷 ٫' //ur bot name
 global.linkz = "https://www.youtube.com/channel/UCtMJaxn6e03ivNFPgPt_OYQ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/channel/UCtMJaxn6e03ivNFPgPt_OYQ" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/Bi2yNkYcwaAFP6c1Bu2TqD' //script link
-global.reactmoji = "🌚" //ur menu react emoji
+global.reactmoji = "menu" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ ALVENOM ⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
+global.packname = "⍣ALVENOM⍣" //ur sticker watermark packname
+global.author = "⍣67666546⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
